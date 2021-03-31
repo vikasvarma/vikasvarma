@@ -1,4 +1,5 @@
-👋 Hi, I’m @vikasvarma \n
+👋 Hi, I’m @vikasvarma
+
 👀 I’m a image processing and computer vision engineer
 
 <!---
