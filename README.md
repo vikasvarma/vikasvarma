@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vikasvarma
-- 👀 I’m a image processing and computer vision engineer
+👋 Hi, I’m @vikasvarma
+👀 I’m a image processing and computer vision engineer
 
 <!---
 vikasvarma/vikasvarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
